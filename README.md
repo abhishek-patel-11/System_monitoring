@@ -6,7 +6,7 @@ This project implements a comprehensive monitoring dashboard using Netdata, foll
 ## Project Requirements
 
 ### 1. Dashboard Setup Using Netdata
-- [x] Install Netdata on a Linux system
+- [x] Install Netdata on a Linux system 
 - [x] Configure Netdata to monitor core system metrics:
   - CPU usage
   - Memory usage
